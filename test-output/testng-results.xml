@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14598" started-at="2020-09-17T23:37:27Z" finished-at="2020-09-17T23:37:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14598" started-at="2020-09-17T23:37:27Z" finished-at="2020-09-17T23:37:41Z">
+      <class name="RestAssured.RestAssured.basics">
+        <test-method status="PASS" signature="Api(java.lang.String)[pri:0, instance:RestAssured.RestAssured.basics@13deb50e]" name="Api" duration-ms="9863" started-at="2020-09-17T23:37:27Z" data-provider="ankit" finished-at="2020-09-17T23:37:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ankit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Api -->
+        <test-method status="PASS" signature="Api(java.lang.String)[pri:0, instance:RestAssured.RestAssured.basics@13deb50e]" name="Api" duration-ms="4664" started-at="2020-09-17T23:37:37Z" data-provider="ankit" finished-at="2020-09-17T23:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[roy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Api -->
+      </class> <!-- RestAssured.RestAssured.basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
